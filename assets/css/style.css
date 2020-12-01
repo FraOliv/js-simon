@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing:border-box;
 }
+
+body{
+  background-image: url(https://images.wallpapersden.com/image/download/tifa-lockhart-final-fantasy-7-remake_a25qZmaUmZqaraWkpJRmbmdlrWZlbWU.jpg);
+  background-size:cover;
+  color: white;
+  font-style: roboto;
+
+}
