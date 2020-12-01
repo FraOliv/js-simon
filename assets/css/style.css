@@ -5,9 +5,11 @@
 }
 
 body{
-  background-image: url(https://images.wallpapersden.com/image/download/tifa-lockhart-final-fantasy-7-remake_a25qZmaUmZqaraWkpJRmbmdlrWZlbWU.jpg);
+  background-image: url(https://images.wallpapersden.com/image/download/final-fantasy-vii-remake-2020_bGVoamyUmZqaraWkpJRnamtlrWZpaWU.jpg);
   background-size:cover;
+  background-repeat: no-repeat;
   color: white;
   font-style: roboto;
-
+  height: 100vh;
+  width: 100vh;
 }
